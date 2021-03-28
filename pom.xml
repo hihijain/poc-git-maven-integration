@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>poc.git.maven.integration</groupId>
 	<artifactId>poc-git-maven-integration</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>poc-git-maven-integration</name>
 	<description>POC on git and maven integration</description>
 	<properties>
